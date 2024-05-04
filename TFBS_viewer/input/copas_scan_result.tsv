@@ -1,0 +1,17 @@
+##gff-version 3
+##sequence-region chr1 1 30584173
+intergenic_region	2858043	2866102	+
+TF_binding_site	2860598	2860607	+
+gene	2865162	2869420	+
+five_prime_UTR	2865162	2866102	+
+three_prime_UTR	2868443	2869420	+
+##sequence-region chr3 1 27142341
+intergenic_region	6200977	6232666	-
+TF_binding_site	6209329	6209339	+
+TF_binding_site	6227343	6227352	+
+TF_binding_site	6227090	6227099	-
+TF_binding_site	6205508	6205517	-
+TF_binding_site	6223751	6223742	+
+gene	6195828	6202070	-
+five_prime_UTR	6200977	6202070	-
+three_prime_UTR	6195828	6196362	-
